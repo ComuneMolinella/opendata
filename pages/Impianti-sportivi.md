@@ -1,6 +1,6 @@
 <img src="../assets/images/Logo Molinella.jpg" alt="Comune Molinella" data-canonical-src="../assets/images/Logo Molinella.jpg" width="400" />
 
-# Impianti Sportivi presenti sul territorio
+# Impianti Sportivi presenti sul territorio del Comune di Molinella
 
 | IT|EN|
 |-|-|
