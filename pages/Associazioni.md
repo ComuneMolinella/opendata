@@ -29,7 +29,7 @@ Every year
 
 |Nome campo<br>Field name|Descrizione<br>Description|Formato<br>Format|Esempio<br>Example|
 |-|-|-|-|
-|**NOMEASSOCIAZIONE**|Nome dell' associazione<br>Name of the association<br>|
+|**NOMEASSOCIAZIONE**|Nome dell' associazione<br>Name of the association<br>|String|ACME ITALIA|
 |**INDIRIZZO**|Indirizzo dell'associazione<br>Association address|Number|0|
 |**CAP**|Codice di avviamento postale<br>Postal code|Number|0|
 |**CITTA**|Città<br>City|Number|0|
