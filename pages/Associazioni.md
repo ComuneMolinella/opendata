@@ -25,7 +25,7 @@ Every year
 
 **Directory:**  [associazioni](../data/associazioni/)<br>
 **Nome file / Filename (csv):** [Associazioni.csv](../data/associazioni/Associazioni.csv)<br>
-**Nome file / Filename (json):** [dpc-ukr-2022--border-entry.json](../data/border-entry/dpc-ukr-2022--border-entry.json)<br>
+**Nome file / Filename (json):** [Associazioni.json](../data/associazioni/Associazioni.json)<br>
 
 |Nome campo<br>Field name|Descrizione<br>Description|Formato<br>Format|Esempio<br>Example|
 |-|-|-|-|
