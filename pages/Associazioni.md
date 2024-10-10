@@ -30,7 +30,7 @@ Every year
 |Nome campo<br>Field name|Descrizione<br>Description|Formato<br>Format|Esempio<br>Example|
 |-|-|-|-|
 |**NOMEASSOCIAZIONE**|Nome dell' associazione<br>Name of the association<br>|String|ACME ITALIA|
-|**INDIRIZZO**|Indirizzo dell'associazione<br>Association address|Number|0|
+|**INDIRIZZO**|Indirizzo dell'associazione<br>Association address|String|VIA SCHIASSI  24|
 |**CAP**|Codice di avviamento postale<br>Postal code|Number|0|
 |**CITTA**|Città<br>City|Number|0|
 |**PROV**|Provincia<br>Province|Number|0|
