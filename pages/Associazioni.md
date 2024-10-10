@@ -31,10 +31,11 @@ Every year
 |-|-|-|-|
 |**NOMEASSOCIAZIONE**|Nome dell' Associazione<br>Update datetime|Datetime<br>YYYY-MM-DDTHH:MM:SSZ<br>ISO 8601|2023-04-14T15:00:00Z|
 |**INDIRIZZO**|Indirizzo dell'associazione<br>Number of women (Border Patrol)|Number|0|
-|**border_patrol_men**|Numero di uomini (Polizia di frontiera)<br>Number of men (Border Patrol)|Number|0|
-|**border_patrol_minors**|Numero di bambini (Polizia di frontiera)<br>Number of children (Border Patrol)|Number|0|
-|**railway_police_women**|Numero di donne (Polizia ferroviaria)<br>Number of women (Railway Police)|Number|0|
-|**railway_police_men**|Numero di uomini (Polizia ferroviaria)<br>Number of men (Railway Police)|Number|0|
+|**CAP**|Codice di avviamento postale<br>Number of women (Border Patrol)|Number|0|
+|**CITTA**|Città<br>Number of men (Border Patrol)|Number|0|
+|**PROV**|Provincia<br>Number of children (Border Patrol)|Number|0|
+|**ANNO COSTITUZIONE**|Anno di costituzione dell'Associazione<br>Number of women (Railway Police)|Number|0|
+|**ATTIVITA**|Attività dell'Associazione<br>Number of men (Railway Police)|Number|0|
 |**railway_police_minors**|Numero di bambini (Polizia ferroviaria)<br>Number of children (Railway Police)|Number|0|
 
 ## Licenza / License
