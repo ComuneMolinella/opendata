@@ -25,7 +25,7 @@ Every year
 
 **Directory:**  [scuole](../data/scuole/)<br>
 **Nome file / Filename (csv):** [Scuole.csv](../data/scuole/Scuole.csv)<br>
-**Nome file / Filename (json):** [Associazioni.json](../data/associazioni/Associazioni.json)<br>
+**Nome file / Filename (json):** [Scuole.json](../data/scuole/Scuole.json)<br>
 
 |Nome campo<br>Field name|Descrizione<br>Description|Formato<br>Format|Esempio<br>Example|
 |-|-|-|-|
