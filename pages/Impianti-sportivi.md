@@ -4,7 +4,7 @@
 
 | IT|EN|
 |-|-|
-|**Fornisce i dati sulle associazioni presenti nel territorio del Comune di Molinella.**<br>|**Provides data on associations present in the territory of the Municipality of Molinella.**<br>
+|**Fornisce i dati sugli impianti sportivi presenti nel territorio del Comune di Molinella.**<br>|**Provides data on sports facilities in the Municipality of Molinella.**<br>
 
 Dati forniti da / Data provided by: **Comune di Molinella**<br>
 
@@ -23,8 +23,8 @@ Every year
 
 ## Dataset
 
-**Directory:**  [associazioni](../data/associazioni/)<br>
-**Nome file / Filename (csv):** [Associazioni.csv](../data/associazioni/Associazioni.csv)<br>
+**Directory:**  [impianti-sportivi](../data/impianti-sportivi/)<br>
+**Nome file / Filename (csv):** [Impianti-Sportivi.csv](../data/associazioni/Impianti-Sportivi.csv)<br>
 **Nome file / Filename (json):** [Associazioni.json](../data/associazioni/Associazioni.json)<br>
 
 |Nome campo<br>Field name|Descrizione<br>Description|Formato<br>Format|Esempio<br>Example|
