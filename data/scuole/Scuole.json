@@ -1,0 +1,90 @@
+[
+  {
+    "NomeIstituto": "Istituto musicale Adriano Banchieri",
+    "IndirizzoDirezioneDidattica": "Via del Lavoro 8",
+    "CittaDirezioneDidattica": "Molinella",
+    "CapDirezioneDidattica": 40062,
+    "IndirizzoSedeIstituto": "Via del Lavoro 8",
+    "CittaSedeIstituto": "Molinella",
+    "CapSedeIstituto": 40062,
+    "LatitudineIstituto": 44.6199832,
+    "LongitudineIstituto": 11.6674831
+  },
+  {
+    "NomeIstituto": "Istituto Comprensivo di Molinella",
+    "IndirizzoDirezioneDidattica": "Via De Amicis 1",
+    "CittaDirezioneDidattica": "Molinella",
+    "CapDirezioneDidattica": 40062,
+    "IndirizzoSedeIstituto": "Via De Amicis 1",
+    "CittaSedeIstituto": "Molinella",
+    "CapSedeIstituto": 40062,
+    "LatitudineIstituto": 44.6180098,
+    "LongitudineIstituto": 11.6712594
+  },
+  {
+    "NomeIstituto": "Istituto Professionale Industria e Artigianato Fioravanti (IPIA)",
+    "IndirizzoDirezioneDidattica": "Viale I Maggio",
+    "CittaDirezioneDidattica": "Budrio",
+    "CapDirezioneDidattica": 40054,
+    "IndirizzoSedeIstituto": "Piazza Massarenti 1",
+    "CittaSedeIstituto": "Molinella",
+    "CapSedeIstituto": 40062,
+    "LatitudineIstituto": 44.6195486,
+    "LongitudineIstituto": 11.6690284
+  },
+  {
+    "NomeIstituto": "Istituto Tecnico Commerciale Efrem Nobili (ITC)",
+    "IndirizzoDirezioneDidattica": "Viale I Maggio",
+    "CittaDirezioneDidattica": "Budrio",
+    "CapDirezioneDidattica": 40054,
+    "IndirizzoSedeIstituto": "Stradello Carabinieri 2",
+    "CittaSedeIstituto": "Molinella",
+    "CapSedeIstituto": 40062,
+    "LatitudineIstituto": 44.6248734,
+    "LongitudineIstituto": 11.6693362
+  },
+  {
+    "NomeIstituto": "Istituto Professionale Commerciale (IPC) Efrem Nobili",
+    "IndirizzoDirezioneDidattica": "Viale I Maggio",
+    "CittaDirezioneDidattica": "Budrio",
+    "CapDirezioneDidattica": 40054,
+    "IndirizzoSedeIstituto": "Via Stradello Carabinieri 2",
+    "CittaSedeIstituto": "Molinella",
+    "CapSedeIstituto": 40062,
+    "LatitudineIstituto": 44.6248734,
+    "LongitudineIstituto": 11.6693362
+  },
+  {
+    "NomeIstituto": "Scuola dell'Infanzia Parrocchiale paritaria di Marmorta",
+    "IndirizzoDirezioneDidattica": "Via Fiume Vecchio 171",
+    "CittaDirezioneDidattica": "Marmorta",
+    "CapDirezioneDidattica": 40062,
+    "IndirizzoSedeIstituto": "Via Fiume Vecchio 171",
+    "CittaSedeIstituto": "Marmorta",
+    "CapSedeIstituto": 40062,
+    "LatitudineIstituto": 44.6188253,
+    "LongitudineIstituto": 11.7189171
+  },
+  {
+    "NomeIstituto": "Nido e Scuola dell'Infanzia paritaria Primi Giochi",
+    "IndirizzoDirezioneDidattica": "Via Severino Ferrari 26",
+    "CittaDirezioneDidattica": "San Pietro Capofiume",
+    "CapDirezioneDidattica": 40062,
+    "IndirizzoSedeIstituto": "Via Severino Ferrari 26",
+    "CittaSedeIstituto": "San Pietro Capofiume",
+    "CapSedeIstituto": 40062,
+    "LatitudineIstituto": 44.6440529,
+    "LongitudineIstituto": 11.6356885
+  },
+  {
+    "NomeIstituto": "Asilo Nido Cip & Ciop",
+    "IndirizzoDirezioneDidattica": "Via Don Minzoni 1",
+    "CittaDirezioneDidattica": "Molinella",
+    "CapDirezioneDidattica": 40062,
+    "IndirizzoSedeIstituto": "Via Don Minzoni 1",
+    "CittaSedeIstituto": "Molinella",
+    "CapSedeIstituto": 40062,
+    "LatitudineIstituto": 44.6238023,
+    "LongitudineIstituto": 11.6731497
+  }
+]
