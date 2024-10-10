@@ -29,8 +29,8 @@ Every year
 
 |Nome campo<br>Field name|Descrizione<br>Description|Formato<br>Format|Esempio<br>Example|
 |-|-|-|-|
-|**date**|Data e ora di aggiornamento<br>Update datetime|Datetime<br>YYYY-MM-DDTHH:MM:SSZ<br>ISO 8601|2023-04-14T15:00:00Z|
-|**border_patrol_women**|Numero di donne (Polizia di frontiera)<br>Number of women (Border Patrol)|Number|0|
+|**NOMEASSOCIAZIONE**|Nome dell' Associazione<br>Update datetime|Datetime<br>YYYY-MM-DDTHH:MM:SSZ<br>ISO 8601|2023-04-14T15:00:00Z|
+|**INDIRIZZO**|Indirizzo dell'associazione<br>Number of women (Border Patrol)|Number|0|
 |**border_patrol_men**|Numero di uomini (Polizia di frontiera)<br>Number of men (Border Patrol)|Number|0|
 |**border_patrol_minors**|Numero di bambini (Polizia di frontiera)<br>Number of children (Border Patrol)|Number|0|
 |**railway_police_women**|Numero di donne (Polizia ferroviaria)<br>Number of women (Railway Police)|Number|0|
