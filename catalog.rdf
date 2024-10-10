@@ -103,10 +103,7 @@
     <dct:title>Scuole Json</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <skos:Concept rdf:about="">
-    <skos:prefLabel>Istruzione, cultura e sport</skos:prefLabel>
-  </skos:Concept>
-   <dcatapit:Dataset rdf:about="https://github.com/ComuneMolinella/opendata/tree/main/data/impianti-sportivi">
+  <dcatapit:Dataset rdf:about="https://github.com/ComuneMolinella/opendata/tree/main/data/impianti-sportivi">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
@@ -179,9 +176,6 @@
     <dct:title>Impianti-Sportivi JSON</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <skos:Concept rdf:about="">
-    <skos:prefLabel>Istruzione, cultura e sport</skos:prefLabel>
-  </skos:Concept>
   <dcatapit:Dataset rdf:about="https://github.com/ComuneMolinella/opendata/tree/main/data/associazioni">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
