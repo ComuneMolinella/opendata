@@ -23,8 +23,8 @@ Every year
 
 ## Dataset
 
-**Directory:**  [border-entry](../data/border-entry/)<br>
-**Nome file / Filename (csv):** [dpc-ukr-2022--border-entry.csv](../data/border-entry/dpc-ukr-2022--border-entry.csv)<br>
+**Directory:**  [associazioni](../data/associazioni/)<br>
+**Nome file / Filename (csv):** [associazioni--Associazioni.csv](../data/associazioni/Associazoni.csv)<br>
 **Nome file / Filename (json):** [dpc-ukr-2022--border-entry.json](../data/border-entry/dpc-ukr-2022--border-entry.json)<br>
 
 |Nome campo<br>Field name|Descrizione<br>Description|Formato<br>Format|Esempio<br>Example|
