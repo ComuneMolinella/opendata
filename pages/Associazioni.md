@@ -4,10 +4,9 @@
 
 | IT|EN|
 |-|-|
-|**Fornisce i dati sugli ingressi in Italia su base giornaliera.**<br>In seguito alla guerra scoppiata in Ucraina a partire dal 24 febbraio 2022, la popolazione in fuga dal Paese è stata accolta e assistita in primo luogo dagli Stati confinanti. Contestualmente, anche in Italia sono state avviate le attività necessarie a garantire l’accoglienza delle persone in arrivo nel nostro Paese.|**Data on entries into Italy on a daily basis.**<br>Following the war in Ukraine as of February 24, 2022 the population fleeing the country was primarily received and assisted by neighboring states. Simultaneously, the necessary activities to ensure the reception of people arriving in Italy have started.|
+|**Fornisce i dati sulle associazioni presenti nel territorio del Comune di Molinella.**<br>|**Provides data on associations present in the territory of the Municipality of Molinella.**<br>
 
 Dati forniti da / Data provided by: **Comune di Molinella**<br>
-Produzione Opendata e dashboard / Opendata production and dashboard: **Dipartimento della Protezione Civile**
 
 ## Aggiornamento dei dati / Data update
 
