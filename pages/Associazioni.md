@@ -33,7 +33,7 @@ Every year
 |**INDIRIZZO**|Indirizzo dell'associazione<br>Association address|String|VIA SCHIASSI  24|
 |**CAP**|Codice di avviamento postale<br>Postal code|Number|40062|
 |**CITTA**|Città<br>City|String|Molinella|
-|**PROV**|Provincia<br>Province|Number|0|
+|**PROV**|Provincia<br>Province|String|(BO)|
 |**ANNO COSTITUZIONE**|Anno di costituzione dell'associazione<br>Year of establishment of the association|Number|0|
 |**ATTIVITA**|Attività dell'associazione<br>Association activities|Number|0|
 
