@@ -34,8 +34,8 @@ Every year
 |**CAP**|Codice di avviamento postale<br>Postal code|Number|40062|
 |**CITTA**|Città<br>City|String|Molinella|
 |**PROV**|Provincia<br>Province|String|(BO)|
-|**ANNO COSTITUZIONE**|Anno di costituzione dell'associazione<br>Year of establishment of the association|Number|0|
-|**ATTIVITA**|Attività dell'associazione<br>Association activities|Number|0|
+|**ANNO COSTITUZIONE**|Anno di costituzione dell'associazione<br>Year of establishment of the association|Number|1955|
+|**ATTIVITA**|Attività dell'associazione<br>Association activities|String|EDUCAZIONE ALLA PRATICA SPORTIVA E ATTIVITA RICREATIVE|
 
 ## Licenza / License
 
