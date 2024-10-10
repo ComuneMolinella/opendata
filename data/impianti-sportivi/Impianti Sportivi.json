@@ -1,0 +1,110 @@
+[
+  {
+    "NomeImpianto": "Stadio comunale Augusto Magli",
+    "TipoSportImpianto": "calcio ciclismo atletica leggera",
+    "IndirizzoImpianto": "Via Paolo Fabbri 1",
+    "CapImpianto": 40062,
+    "CittaImpianto": "Molinella",
+    "Latitudine": 44.6189607,
+    "Longitudine": 11.6710353
+  },
+  {
+    "NomeImpianto": "Centro Tennis Comunale",
+    "TipoSportImpianto": "tennis",
+    "IndirizzoImpianto": "Via Andrea Costa 2",
+    "CapImpianto": 40062,
+    "CittaImpianto": "Molinella",
+    "Latitudine": 44.6201285,
+    "Longitudine": 11.6717276
+  },
+  {
+    "NomeImpianto": "Piscine",
+    "TipoSportImpianto": "nuoto subacquea pallanuoto",
+    "IndirizzoImpianto": "Via Andrea Costa 6",
+    "CapImpianto": 40062,
+    "CittaImpianto": "Molinella",
+    "Latitudine": 44.6200806,
+    "Longitudine": 11.6724666
+  },
+  {
+    "NomeImpianto": "Palestra Scolastica",
+    "TipoSportImpianto": "pallavolo pallacanestro calcetto pallamano",
+    "IndirizzoImpianto": "Via Martiri della Liberazione",
+    "CapImpianto": 40062,
+    "CittaImpianto": "Molinella",
+    "Latitudine": 44.617604,
+    "Longitudine": 11.672463
+  },
+  {
+    "NomeImpianto": "Palazzetto dello Sport",
+    "TipoSportImpianto": "pallavolo pallacanestro pattinaggio",
+    "IndirizzoImpianto": "Via Martiri della Liberazione",
+    "CapImpianto": 40062,
+    "CittaImpianto": "Molinella",
+    "Latitudine": 44.6176037,
+    "Longitudine": 11.6730367
+  },
+  {
+    "NomeImpianto": "Palestra Centro sportivo Andrea Costa",
+    "TipoSportImpianto": "pallavolo pallacanestro arti marziali tiro con l'arco",
+    "IndirizzoImpianto": "Via Andrea Costa 4",
+    "CapImpianto": 40062,
+    "CittaImpianto": "Molinella",
+    "Latitudine": 44.6201078,
+    "Longitudine": 11.6717626
+  },
+  {
+    "NomeImpianto": "Campo da calcetto",
+    "TipoSportImpianto": "calcetto green volley",
+    "IndirizzoImpianto": "Via Martiri della Liberazione",
+    "CapImpianto": 40062,
+    "CittaImpianto": "Molinella",
+    "Latitudine": 44.6182675,
+    "Longitudine": 11.6727395
+  },
+  {
+    "NomeImpianto": "Campo scuola mountain bike",
+    "TipoSportImpianto": "mountain bike",
+    "IndirizzoImpianto": "Via Manin",
+    "CapImpianto": 40062,
+    "CittaImpianto": "Molinella",
+    "Latitudine": 44.6168406,
+    "Longitudine": 11.6795589
+  },
+  {
+    "NomeImpianto": "Centro sportivo Franco Parenti",
+    "TipoSportImpianto": "calcio beach tennis beach volley pallacanestro",
+    "IndirizzoImpianto": "Via Fiume Vecchio",
+    "CapImpianto": 40062,
+    "CittaImpianto": "Marmorta",
+    "Latitudine": 44.6168169,
+    "Longitudine": 11.7232762
+  },
+  {
+    "NomeImpianto": "Campo da calcio S. Pietro Capofiume",
+    "TipoSportImpianto": "calcio a 7",
+    "IndirizzoImpianto": "Via Bassa",
+    "CapImpianto": 40062,
+    "CittaImpianto": "San Pietro Capofiume",
+    "Latitudine": 44.6543225,
+    "Longitudine": 11.6408548
+  },
+  {
+    "NomeImpianto": "Campo da calcio S. Martino in Argine",
+    "TipoSportImpianto": "calcio a 7",
+    "IndirizzoImpianto": "Via Budella",
+    "CapImpianto": 40062,
+    "CittaImpianto": "San Martino in Argine",
+    "Latitudine": 44.586841,
+    "Longitudine": 11.6123056
+  },
+  {
+    "NomeImpianto": "Skate Park San Martino in Argine",
+    "TipoSportImpianto": "skateboard",
+    "IndirizzoImpianto": "Strada provinciale",
+    "CapImpianto": 40062,
+    "CittaImpianto": "San Martino in Argine",
+    "Latitudine": 44.5878711,
+    "Longitudine": 11.6083921
+  }
+]
