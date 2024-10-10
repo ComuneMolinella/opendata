@@ -17,15 +17,9 @@ Every year
 
 | IT|EN|
 |-|-|
-|Raccolta dei dati da parte della Polizia di frontiera e della Polizia Ferroviaria|Data collection by the Border Police and the Railway Police|
-|Ricezione dei dati da parte del Ministero dell'Interno|Receipt of data by the Ministry of the Interior|
+|Raccolta dei dati da parte del Comune di Molinella|Data collection by the Municipality of Molinella|
 |Produzione del dataset open|Opendata dataset production|
-|Pubblicazione dashboard|Dashboard publishing|
 |Pubblicazione dati|Opendata publishing|
-
-## Dashboard
-
-[https://mappe.protezionecivile.gov.it/it/mappe-e-dashboards-emergenze/mappe-e-dashboards-ucraina/ingressi-alle-frontiere](https://mappe.protezionecivile.gov.it/it/mappe-e-dashboards-emergenze/mappe-e-dashboards-ucraina/ingressi-alle-frontiere)
 
 ## Dataset
 
