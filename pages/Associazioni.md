@@ -31,8 +31,8 @@ Every year
 |-|-|-|-|
 |**NOMEASSOCIAZIONE**|Nome dell' associazione<br>Name of the association<br>|String|ACME ITALIA|
 |**INDIRIZZO**|Indirizzo dell'associazione<br>Association address|String|VIA SCHIASSI  24|
-|**CAP**|Codice di avviamento postale<br>Postal code|Number|0|
-|**CITTA**|Città<br>City|Number|0|
+|**CAP**|Codice di avviamento postale<br>Postal code|Number|40062|
+|**CITTA**|Città<br>City|String|Molinella|
 |**PROV**|Provincia<br>Province|Number|0|
 |**ANNO COSTITUZIONE**|Anno di costituzione dell'associazione<br>Year of establishment of the association|Number|0|
 |**ATTIVITA**|Attività dell'associazione<br>Association activities|Number|0|
