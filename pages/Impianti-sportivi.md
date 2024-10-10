@@ -1,6 +1,6 @@
 <img src="../assets/images/Logo Molinella.jpg" alt="Comune Molinella" data-canonical-src="../assets/images/Logo Molinella.jpg" width="400" />
 
-# Associazioni presenti sul territorio
+# Impianti Sportivi presenti sul territorio
 
 | IT|EN|
 |-|-|
@@ -24,7 +24,7 @@ Every year
 ## Dataset
 
 **Directory:**  [impianti-sportivi](../data/impianti-sportivi/)<br>
-**Nome file / Filename (csv):** [Impianti-Sportivi.csv](../data/associazioni/Impianti-Sportivi.csv)<br>
+**Nome file / Filename (csv):** [Impianti-Sportivi.csv](../data/impianti-sportivi/Impianti-Sportivi.csv)<br>
 **Nome file / Filename (json):** [Associazioni.json](../data/associazioni/Associazioni.json)<br>
 
 |Nome campo<br>Field name|Descrizione<br>Description|Formato<br>Format|Esempio<br>Example|
