@@ -29,13 +29,15 @@ Every year
 
 |Nome campo<br>Field name|Descrizione<br>Description|Formato<br>Format|Esempio<br>Example|
 |-|-|-|-|
-|**NOMEASSOCIAZIONE**|Nome dell' associazione<br>Name of the association<br>|String|ACME ITALIA|
-|**INDIRIZZO**|Indirizzo dell'associazione<br>Association address|String|VIA SCHIASSI  24|
-|**CAP**|Codice di avviamento postale<br>Postal code|Number|40062|
-|**CITTA**|Città<br>City|String|Molinella|
-|**PROV**|Provincia<br>Province|String|(BO)|
-|**ANNO COSTITUZIONE**|Anno di costituzione dell'associazione<br>Year of establishment of the association|Number|1955|
-|**ATTIVITA**|Attività dell'associazione<br>Association activities|String|EDUCAZIONE ALLA PRATICA SPORTIVA E ATTIVITA RICREATIVE|
+|**NomeIstituto**|Nome dell'istituto scolastico<br>Name of the educational institution<br>|String|Istituto musicale Adriano Banchieri|
+|**IndirizzoDirezioneDidattica**|Indirizzo della direzione didtattica dell'istituto<br>Address of the institute's educational management|String|Via del Lavoro 8|
+|**CittaDirezioneDidattica**|Città dove risiede la direzione didattica dell'istituto<br>City where the institute's educational management resides|String|Molinella|
+|**CapDirezioneDidattica**|Codice di avviamento postale della direzione didattica dell'istituto<br>Postal code of the educational directorate of the institute|Number|40062|
+|**IndirizzoSedeIstituto**|Indirizzo della sede dell'istituto<br>Address of the institute's headquarters|String|Via del Lavoro 8|
+|**CittaSedeIstituto**|Città dove è situato l'istituto<br>City where the institute is located|String|Molinella|
+|**CapSedeIstituto**|Codice di avviamento postale dell'istituto<br>Institution zip code|Number|40062|
+|**LatitudineIstituto**|Latitudine dell'istituto<br>Latitude of the institute|Number|44.6199832|
+|**LongitudineIstituto**|Longitudine dell'istituto<br>Longitude of the institute|Number|11.6674831|
 
 ## Licenza / License
 
