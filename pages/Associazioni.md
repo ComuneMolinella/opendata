@@ -24,7 +24,7 @@ Every year
 ## Dataset
 
 **Directory:**  [associazioni](../data/associazioni/)<br>
-**Nome file / Filename (csv):** [associazioni/Associazoni.csv](../data/associazioni/Associazoni.csv)<br>
+**Nome file / Filename (csv):** [associazioni/Associazioni.csv](../data/associazioni/Associazoni.csv)<br>
 **Nome file / Filename (json):** [dpc-ukr-2022--border-entry.json](../data/border-entry/dpc-ukr-2022--border-entry.json)<br>
 
 |Nome campo<br>Field name|Descrizione<br>Description|Formato<br>Format|Esempio<br>Example|
