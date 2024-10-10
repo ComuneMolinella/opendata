@@ -1,4 +1,4 @@
-<img src="../assets/images/dpcUKR2022.png" alt="DPC Emergenza Ucraina 2022" data-canonical-src="../assets/images/dpcUKR2022.png" width="400" />
+<img src="../assets/images/Logo Molinella.jpg" alt="Comune Molinella" data-canonical-src="../assets/images/Logo Molinella.jpg" width="400" />
 
 # Associazioni presenti sul territorio
 
