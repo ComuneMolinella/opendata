@@ -32,7 +32,7 @@ Every year
 |**NomeImpianto**|Nome dell'impianto sportivo<br>Name of the sports facility<br>|String|Stadio comunale Augusto Magli|
 |**TipoSportImpianto**|Sport praticabili nell'impianto sportivo<br>Sports available in the sports facility|String|calcio ciclismo atletica leggera|
 |**IndirizzoImpianto**|Indirizzo dell'impianto sportivo<br>Address of the sports facility|String|Via Paolo Fabbri 1|
-|**CapImpianto**|Codice avviamento postale<br>|Postal code|Number|40062|
+|**CapImpianto**|Codice avviamento postale<br>Postal code|Number|40062|
 |**CittaImpianto**|Città<br>City|String|Molinella|
 |**Latitudine**|Latitudine impianto sportivo<br>Sports facility latitude|Number|44.6189607|
 |**Longitudine**|Longitudine impianto sportivo<br>Longitude of sports facility|Number|11.6710353|
