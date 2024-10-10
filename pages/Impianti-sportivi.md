@@ -29,13 +29,13 @@ Every year
 
 |Nome campo<br>Field name|Descrizione<br>Description|Formato<br>Format|Esempio<br>Example|
 |-|-|-|-|
-|**NOMEASSOCIAZIONE**|Nome dell' associazione<br>Name of the association<br>|String|ACME ITALIA|
-|**INDIRIZZO**|Indirizzo dell'associazione<br>Association address|String|VIA SCHIASSI  24|
-|**CAP**|Codice di avviamento postale<br>Postal code|Number|40062|
-|**CITTA**|Città<br>City|String|Molinella|
-|**PROV**|Provincia<br>Province|String|(BO)|
-|**ANNO COSTITUZIONE**|Anno di costituzione dell'associazione<br>Year of establishment of the association|Number|1955|
-|**ATTIVITA**|Attività dell'associazione<br>Association activities|String|EDUCAZIONE ALLA PRATICA SPORTIVA E ATTIVITA RICREATIVE|
+|**NomeImpianto**|Nome dell'impianto sportivo<br>Name of the sports facility<br>|String|Stadio comunale Augusto Magli|
+|**TipoSportImpianto**|Sport praticabili nell'impianto sportivo<br>Sports available in the sports facility|String|calcio ciclismo atletica leggera|
+|**IndirizzoImpianto**|Indirizzo dell'impianto sportivo<br>Address of the sports facility|Via Paolo Fabbri 1|
+|**CapImpianto**|Codice avviamento postale<br>Postal code|40062|
+|**CittaImpianto**|Città<br>City|String|Molinella|
+|**Latitudine**|Latitudine impianto sportivo<br>Sports facility latitude|Number|44.6189607|
+|**Longitudine**|Longitudine impianto sportivo<br>Longitude of sports facility|Number|11.6710353|
 
 ## Licenza / License
 
