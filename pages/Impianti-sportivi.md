@@ -25,7 +25,7 @@ Every year
 
 **Directory:**  [impianti-sportivi](../data/impianti-sportivi/)<br>
 **Nome file / Filename (csv):** [Impianti-Sportivi.csv](../data/impianti-sportivi/Impianti-Sportivi.csv)<br>
-**Nome file / Filename (json):** [Associazioni.json](../data/associazioni/Associazioni.json)<br>
+**Nome file / Filename (json):** [Impianti-Sportivi.json](../data/impianti-sportivi/Impianti-Sportivi.json)<br>
 
 |Nome campo<br>Field name|Descrizione<br>Description|Formato<br>Format|Esempio<br>Example|
 |-|-|-|-|
