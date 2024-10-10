@@ -1,4 +1,4 @@
-<img src="../assets/images/Logo Molinella.jpg" alt="Comune Molinella" data-canonical-src="../assets/images/Logo Molinella.jpg" align="center" width="400" />
+<img src="../assets/images/Logo Molinella.jpg" alt="Comune Molinella" data-canonical-src="../assets/images/Logo Molinella.jpg" width="400" />
 
 # Associazioni presenti sul territorio
 
