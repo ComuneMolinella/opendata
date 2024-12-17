@@ -42,7 +42,7 @@
     <dct:description>Fornisce i dati sugli impianti sportivi presenti nel territorio del Comune di Molinella.</dct:description>
     <dct:identifier>C_F288:impianti-sportivi</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
-    <dcat:contactPoint rdf:resource="https://www.comune.molinella.bo.it"/>
+    <dcat:contactPoint rdf:resource="https://www.comune.molinella.bo.it/1/204/il-comune/open-data-comune-di-molinella"/>
     <dct:rightsHolder>
       <dcatapit:Agent rdf:about="C_F288">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
@@ -68,7 +68,7 @@
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-02</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-01</dct:issued>
-    <dcat:contactPoint rdf:resource="https://www.comune.molinella.bo.it"/>
+    <dcat:contactPoint rdf:resource="https://www.comune.molinella.bo.it/1/204/il-comune/open-data-comune-di-molinella"/>
     <dcat:keyword>sport</dcat:keyword>
     <dcat:keyword>benessere</dcat:keyword>
     <dcat:keyword>territorio</dcat:keyword>
@@ -118,7 +118,7 @@
     <dct:description>Fornisce i dati sugli istituti scolastici presenti nel territorio del Comune di Molinella.</dct:description>
     <dct:identifier>C_F288:scuole</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
-    <dcat:contactPoint rdf:resource="https://www.comune.molinella.bo.it"/>
+    <dcat:contactPoint rdf:resource="https://www.comune.molinella.bo.it/1/204/il-comune/open-data-comune-di-molinella"/>
     <dct:rightsHolder>
       <dcatapit:Agent rdf:about="C_F288">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
