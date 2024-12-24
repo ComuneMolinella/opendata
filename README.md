@@ -2,7 +2,7 @@
 
 # Portale degli Open Data del Comune di Molinella
 
-[Sito web del Comune di Molinella](https://www.comune.molinella.bo.it)
+[Sito web del Comune di Molinella <br> Website of Comune di Molinella](https://www.comune.molinella.bo.it)
 
 ## Struttura del repository / Repository structure
 ```
