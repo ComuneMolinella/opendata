@@ -7,6 +7,9 @@
 ## Struttura del repository / Repository structure
 ```
 opendata/
+├── assets/
+│   ├── images
+│   │   ├── Logo Molinella.jpg
 ├── data/
 │   ├── associazioni
 │   │   ├── Associazioni.csv
@@ -23,8 +26,10 @@ opendata/
 │   ├── temporary-protection
 │   │   ├── dpc-ukr-2022--temporary-protection.csv
 │   │   ├── dpc-ukr-2022--temporary-protection.json
-├── assets/
-│   ├── images
+├── pages/
+│   ├── Associazioni.md
+│   ├── Impianti-sportivi.md
+│   ├── Scuole.md
 ```
 
 ## Dataset README
