@@ -30,7 +30,7 @@ opendata/
 ## Dataset README
 
 - [Associazioni presenti nel territorio del Comune di Molinella / Associations present in the territory of the Municipality of Molinella.](pages/Associazioni.md)
-- [Impianti sportivi presenti nel territorio del Comune di Molinella / Ssports facilities in the Municipality of Molinella.)](pages/Impianti-sportivi.md)
+- [Impianti sportivi presenti nel territorio del Comune di Molinella / Sports facilities in the Municipality of Molinella)](pages/Impianti-sportivi.md)
 - [Protezione temporanea / Temporary Protection (temporary-protection)](pages/dpc-ukr-2022--temporary-protection.md)
 - [Manifestazioni di interesse accoglienza diffusa / Expressions of interest diffused hospitality (expression-interest-diffused-hospitality)](pages/dpc-ukr-2022--expression-interest-diffused-hospitality.md)
 - [Aiuti umanitari / Humanitarian aid (dpc-ukr-2022--humanitarian-aid)](pages/dpc-ukr-2022--humanitarian-aid.md)
