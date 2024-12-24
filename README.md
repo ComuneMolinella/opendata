@@ -20,12 +20,6 @@ opendata/
 │   ├── scuole
 │   │   ├── Scuole.csv
 │   │   ├── Scuole.json
-│   ├── subsistence-allowance
-│   │   ├── dpc-ukr-2022--subsistence-allowance.csv
-│   │   ├── dpc-ukr-2022--subsistence-allowance.json
-│   ├── temporary-protection
-│   │   ├── dpc-ukr-2022--temporary-protection.csv
-│   │   ├── dpc-ukr-2022--temporary-protection.json
 ├── pages/
 │   ├── Associazioni.md
 │   ├── Impianti-sportivi.md
