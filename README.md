@@ -31,7 +31,7 @@ opendata/
 
 - [Associazioni presenti nel territorio del Comune di Molinella / Associations present in the territory of the Municipality of Molinella.](pages/Associazioni.md)
 - [Impianti sportivi presenti nel territorio del Comune di Molinella / Sports facilities in the Municipality of Molinella)](pages/Impianti-sportivi.md)
-- [Istituti Scolastici presenti nel territorio del Comune di Molinella / Temporary Protection (temporary-protection)](pages/dpc-ukr-2022--temporary-protection.md)
+- [Istituti Scolastici presenti nel territorio del Comune di Molinella / Schools present in the territory of the Municipality of Molinella](pages/Scuole.md)
 
 ## Licenza / License
 
