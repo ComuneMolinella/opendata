@@ -28,9 +28,9 @@ opendata/
 
 ## Dataset README
 
-- [Associazioni presenti nel territorio del Comune di Molinella / Associations present in the territory of the Municipality of Molinella.](pages/Associazioni.md)
-- [Impianti sportivi presenti nel territorio del Comune di Molinella / Sports facilities in the Municipality of Molinella)](pages/Impianti-sportivi.md)
-- [Istituti Scolastici presenti nel territorio del Comune di Molinella / Schools present in the territory of the Municipality of Molinella](pages/Scuole.md)
+- [Associazioni presenti nel territorio del Comune di Molinella / Associations located in the Municipality of Molinella](pages/Associazioni.md)
+- [Impianti sportivi presenti nel territorio del Comune di Molinella / Sports facilities located within the Municipality of Molinella)](pages/Impianti-sportivi.md)
+- [Istituti Scolastici presenti nel territorio del Comune di Molinella / Schools located in the Municipality of Molinella](pages/Scuole.md)
 
 ## Licenza / License
 
