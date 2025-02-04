@@ -10,7 +10,7 @@
     <dcatapit:Agent rdf:about="C_F288">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-      <dct:identifier>C_F288</dct:identifier>
+      <dct:identifier>c_f288</dct:identifier>
       <foaf:name>Comune di Molinella</foaf:name>
     </dcatapit:Agent>
   </dct:publisher>
