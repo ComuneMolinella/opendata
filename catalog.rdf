@@ -7,7 +7,7 @@
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
   <dct:title>Comune di Molinella</dct:title>
   <dct:publisher>
-    <dcatapit:Agent rdf:about="C_F288">
+    <dcatapit:Agent rdf:about="c_f288">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>c_f288</dct:identifier>
