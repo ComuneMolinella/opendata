@@ -265,7 +265,7 @@
   <rdf:type rdf:resource="vcard:Kind"/>
   <vcard:fn>Comune di Molinella</vcard:fn>
   <vcard:hasEmail rdf:resource="opendata@comune.molinella.bo.it"/>
-  <vcard:hasTelephone>800999500</vcard:hasTelephone>
+  <vcard:hasTelephone>0516906811</vcard:hasTelephone>
   <vcard:hasURL rdf:resource="https://www.comune.molinella.bo.it"/>
 </dcatapit:Organization>
 </rdf:RDF>
