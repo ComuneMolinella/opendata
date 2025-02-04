@@ -116,13 +116,13 @@
     <dct:title>Scuole</dct:title>
     <dcat:landingPage rdf:resource="https://github.com/ComuneMolinella/opendata/tree/main/data/"/>
     <dct:description>Fornisce i dati sugli istituti scolastici presenti nel territorio del Comune di Molinella.</dct:description>
-    <dct:identifier>C_F288:scuole</dct:identifier>
+    <dct:identifier>c_f288:scuole</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
     <dcat:contactPoint rdf:resource="https://www.comune.molinella.bo.it/1/204/il-comune/open-data-comune-di-molinella"/>
     <dct:rightsHolder>
-      <dcatapit:Agent rdf:about="C_F288">
+      <dcatapit:Agent rdf:about="c_f288">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-        <dct:identifier>C_F288</dct:identifier>
+        <dct:identifier>c_f288</dct:identifier>
         <foaf:name>Comune di Molinella</foaf:name>
       </dcatapit:Agent>
     </dct:rightsHolder>
@@ -130,7 +130,7 @@
       <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-        <dct:identifier>C_F288</dct:identifier>
+        <dct:identifier>c_f288</dct:identifier>
         <foaf:name>Comune di Molinella</foaf:name>
       </dcatapit:Agent>
     </dct:publisher>
@@ -192,13 +192,13 @@
     <dct:title>Associazioni</dct:title>
     <dcat:landingPage rdf:resource="https://github.com/ComuneMolinella/opendata/tree/main/data/"/>
     <dct:description>Fornisce i dati sulle associazioni presenti nel territorio del Comune di Molinella.</dct:description>
-    <dct:identifier>C_F288:associazioni</dct:identifier>
+    <dct:identifier>c_f288:associazioni</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
     <dcat:contactPoint rdf:resource="https://www.comune.molinella.bo.it"/>
     <dct:rightsHolder>
-      <dcatapit:Agent rdf:about="C_F288">
+      <dcatapit:Agent rdf:about="c_f288">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-        <dct:identifier>C_F288</dct:identifier>
+        <dct:identifier>c_f288</dct:identifier>
         <foaf:name>Comune di Molinella</foaf:name>
       </dcatapit:Agent>
     </dct:rightsHolder>
